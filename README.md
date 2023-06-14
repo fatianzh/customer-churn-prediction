@@ -8,3 +8,6 @@ The data shows that there are 3652 data is not churn and 598 data indicated chur
 ![download](https://github.com/fatianzh/customer-churn-prediction/assets/104208809/f122188d-58c1-4fe6-a037-698e5b12ae7b)
 
 After modeling, Random Forest Model has the highest accuration, but the difference between the number of false negatives and false positives is greater than Decission Tree. Thus, it can be concluded that the best model for predicting customer churn is the Decision Tree.
+
+Meanwhile, the variable that influences the determination of customer is churn or not is total charge.
+![download (1)](https://github.com/fatianzh/customer-churn-prediction/assets/104208809/5743d1a9-3540-4d0d-9aa3-9ca2c411b56a)
